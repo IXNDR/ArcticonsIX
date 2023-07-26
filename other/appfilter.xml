@@ -10772,6 +10772,9 @@
   <!-- LMS -->
   <item component="ComponentInfo{com.craigd.lmsmaterial.app/com.craigd.lmsmaterial.app.MainActivity}" drawable="lms"/>
 
+  <!-- LNReader -->
+	<item component="ComponentInfo{com.rajarsheechatterjee.LNReader/com.rajarsheechatterjee.LNReader.MainActivity}" drawable="lnreader"/>  
+  
   <!-- LocalBitcoins -->
   <item component="ComponentInfo{com.localbitcoins.app.android/com.localbitcoins.MainActivity}" drawable="localbitcoins"/>
 
